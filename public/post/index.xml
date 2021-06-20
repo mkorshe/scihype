@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Scihype</title>
+    <link>https://syui.cf/hugo-theme-air/post/</link>
+    <description>Recent content in Posts on Scihype</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://syui.cf/hugo-theme-air/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Welcome to the SciHype!</title>
+      <link>https://syui.cf/hugo-theme-air/post/2021/06/19/test/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.cf/hugo-theme-air/post/2021/06/19/test/</guid>
+      <description>“The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.”
+ William Lawrence Bragg
+Why SciHype? The final aim of every research is to improve people&amp;rsquo;s life. But how can we achieve it if there is no direct connection between cutting-edge scientific discoveries and people? SciHype&amp;rsquo;s goal is to bridge people with the most recent advances in the biomedical by providing a summary of the most modern observations and innovations.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://syui.cf/hugo-theme-air/post/2021/06/16/test/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.cf/hugo-theme-air/post/2021/06/16/test/</guid>
+      <description>My name is Maryna, I am a PhD candidate in single-cell multi-omics and personalised medicine in UMCG, TranSys project. Being extremely passionate about science and research, I started SciHype project in March 2020, to highlight and explain frontier research for community.</description>
+    </item>
+    
+  </channel>
+</rss>
